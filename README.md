@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am currenlty pursuing third year M.tech integrated Software Engineering student  in VIT,Vellore.<br>Interested in developing applications related to AI/ML,Data Analytics with proper schema. Interested to work as an Intern! 
+Third-year Integrated M.Tech Software Engineering student specializing in scalable software solutions. Experienced in cloud architecture, full-stack development, and AI/ML implementation in various applications.
+Interested to work as an Intern! 
 
 
 ## 🌐 Socials:
