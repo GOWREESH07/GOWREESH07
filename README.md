@@ -1,5 +1,5 @@
 # 💫 About Me:
-Third-year Integrated M.Tech Software Engineering student specializing in scalable software solutions. Experienced in cloud architecture, full-stack development, and AI/ML implementation in various applications.
+Pre-Final-year Integrated M.Tech Software Engineering student specializing in scalable software solutions. Experienced in cloud architecture, full-stack development, and AI/ML implementation in various applications.
 Interested to work as an Intern! 
 
 
